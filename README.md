@@ -1,0 +1,1 @@
+Computational materials modeling (Quantum Chemistry), covering molecular dynamics, Monte Carlo, and density functional theory approaches. Applied ML (graph neural networks and autodifferentiation) with PyTorch for advanced materials modeling.
